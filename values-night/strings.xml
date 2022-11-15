@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Name</string>
+    <string name="mobile_no">Mobile No:</string>
+    <string name="already_have_an_account_login_here">Already have an account? LogIn here</string>
+    <string name="passowrd">Passowrd</string>
+    <string name="name">Name</string>
+    <string name="sign_in">Sign-in</string>
+    <string name="mobileNo" />
+    <string name="Wname" />
+    <string name="password" />
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="don_t_have_an_account_signin_here">Don\'t have an account? Signin here</string>
+    <string name="name">Name</string>
+    <string name="Lpassword">Password</string>
+    <string name="re_enter_password">Re-enter password</string>
+    <string name="Name">name</string>
+    <string name="Mobile_no">mobile no</string>
+    <string name="sinhala">Sinhala</string>
+    <string name="english">English</string>
+    <string name="choose_a_language">Choose a language</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="todo">TODO</string>
+    <string name="logo">logo</string>
+</resources>
