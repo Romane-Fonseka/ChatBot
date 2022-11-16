@@ -28,6 +28,17 @@ public class Signin extends AppCompatActivity {
                 String mobile_w = mobile.getText().toString();
                 String password_w = password.getText().toString();
                 String repsd_w = repsd.getText().toString();
+                
+                if (password_w.equals(repsd_w)); //&& (password.equals("")));
+                {
+                    Toast.makeText(Signin.this, "Welcome", Toast.LENGTH_SHORT).show();
+                    Intent intent = new Intent(getApplicationContext(), Dashboard.class);
+                    startActivity(intent);
+                }
+                else
+                {
+                    Toast.makeText(Signin.this, "Invalid Credentials", Toast.LENGTH_SHORT).show();
+                }
 
             }
         });
